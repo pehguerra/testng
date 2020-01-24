@@ -1,0 +1,13 @@
+<suite name="Regression TestSuite">
+    <test name="Application Test">
+        <classes>
+            <class name="testClasses.TestClass1"></class>
+            <class name="testClasses.TestClass2"></class>
+        </classes>
+    </test>
+    <test name="Application Test 2">
+        <classes>
+            <class name="testClasses.TestClass2"></class>
+        </classes>
+    </test>
+</suite>
